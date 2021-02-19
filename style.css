@@ -1,0 +1,78 @@
+body {
+  background: #dfdfdf;
+  font-family: "Raleway", sans-serif;
+  color: rgb(34, 34, 34);
+  margin: 0;
+}
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.profile {
+  text-align: center;
+  margin-bottom: 40px;
+}
+.foto-principal {
+  width: 200px;
+  border: 2px solid #ffffff;
+  border-radius: 50%;
+  margin: 30px 30px 0;
+  padding: 10px;
+  box-shadow: 0px 0px 10px #ccc0c0; /*dist horiz, vertic, desfoq, cor*/
+}
+h1 {
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: 35px;
+  margin-bottom: 0;
+  margin-top: 10px;
+  letter-spacing: -1px;
+  padding-left: 20px;
+}
+h2 {
+  margin-top: 0;
+  font-style: italic;
+  color: rgb(30, 30, 30);
+  font-weight: 100;
+  letter-spacing: -1px; /*alterar o espaçamento das letras na fonte*/
+  padding-left: 20px;
+}
+p {
+  text-align: justify;
+}
+h4 {
+  margin-bottom: 5px;
+}
+h5 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 100;
+  font-style: italic;
+}
+.social-icons {
+  width: 30px;
+}
+.github {
+  margin: 0 15px 0 15px;
+}
+.social-links {
+  text-decoration: none;
+}
+.jobs-list {
+  list-style: none;
+  padding-left: 20px;
+}
+.translate {
+  max-width: 400px;
+  float: right;
+  margin-top: 40px;
+}
+.flag {
+  width: 30px;
+}
+.footer {
+  background-color: black;
+  margin-top: 100px;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
